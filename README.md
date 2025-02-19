@@ -3,5 +3,3 @@
 ## Ma liste des choses à faire :
 - [X]créer le dépôt
 - [ ] Modifier le fichier `README.md`
-
-g
